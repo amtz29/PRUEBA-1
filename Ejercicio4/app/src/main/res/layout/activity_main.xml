@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
+//prueba
     <EditText
         android:id="@+id/edtValor1"
         android:layout_width="274dp"
@@ -22,6 +22,8 @@
         app:layout_constraintVertical_bias="0.134"
         tools:hint="Valor1" />
 
+    
+    
     <Button
         android:id="@+id/btnCalculo"
         android:layout_width="265dp"
